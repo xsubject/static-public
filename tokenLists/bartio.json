@@ -88,6 +88,15 @@
       "decimals": 18,
       "logoURI": "https://game.grandconquest.com/game/conquest/icons/gold.svg",
       "tags": []
+    },
+    {
+      "chainId": 80084,
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "GUIDE",
+      "name": "Guide Token",
+      "decimals": 18,
+      "logoURI": "https://game.grandconquest.com/game/conquest/icons/guide.svg",
+      "tags": []
     }
   ],
   "version": {
